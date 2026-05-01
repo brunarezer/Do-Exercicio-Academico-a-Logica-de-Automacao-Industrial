@@ -1,0 +1,14 @@
+RELATÓRIO DE PRODUÇÃO
+____________________________________________________________
+Total de peças produzidas: 27
+Total de peças aprovadas: 21
+Total de peças reprovadas: 6
+Quantidade de caixas fechadas: 2
+Quantidade total de caixas utilizadas (fechadas + atual): 3
+Peças na caixa atual: 1
+____________________________________________________________
+Motivos de reprovação:
+Peso fora do padrão: 6 peça(s)
+Cor fora do padrão: 3 peça(s)
+Comprimento fora do padrão: 5 peça(s)
+____________________________________________________________

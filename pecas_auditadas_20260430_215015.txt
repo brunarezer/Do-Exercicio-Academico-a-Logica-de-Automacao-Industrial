@@ -1,0 +1,42 @@
+PEÇAS AUDITADAS
+Arquivo gerado em: 30/04/2026 21:50:15
+ID    | PESO | COR       | COMPRIMENTO | STATUS    | MOTIVOS REPROVAÇÃO                                                      | NUMERO CAIXA | DATA CAD.           
+__________________________________________________________________________________________________________________________________________________________________
+P0001 | 100  | azul      | 15          | aprovada  | -                                                                       | C0001        | 28/04/2026 10:00:00 
+P0002 | 110  | vermelha  | 9           | reprovada | Peso fora do padrão, Cor fora do padrão, Comprimento fora do padrão     | -            | 28/04/2026 10:05:00 
+P0003 | 120  | azul      | 22          | reprovada | Peso fora do padrão, Comprimento fora do padrão                         | -            | 30/04/2026 21:32:28 
+P0004 | 100  | azul      | 11          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:32:43 
+P0005 | 105  | verde     | 11          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:32:57 
+P0006 | 101  | azul      | 12          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:33:09 
+P0007 | 100  | verde     | 11          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:33:21 
+P0008 | 103  | azul      | 10          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:33:32 
+P0009 | 106  | azul      | 21          | reprovada | Peso fora do padrão, Comprimento fora do padrão                         | -            | 30/04/2026 21:33:47 
+P0010 | 108  | amarela   | 23          | reprovada | Peso fora do padrão, Cor fora do padrão, Comprimento fora do padrão     | -            | 30/04/2026 21:34:12 
+P0011 | 100  | verde     | 13          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:34:24 
+P0012 | 103  | verde     | 11          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:34:37 
+P0013 | 100  | azul      | 12          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:34:47 
+P0014 | 105  | verde     | 11          | aprovada  | -                                                                       | C0001        | 30/04/2026 21:35:05 
+P0015 | 100  | azul      | 16          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:35:19 
+P0016 | 103  | azul      | 14          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:35:30 
+P0017 | 105  | azul      | 15          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:35:42 
+P0018 | 109  | verde     | 30          | reprovada | Peso fora do padrão, Comprimento fora do padrão                         | -            | 30/04/2026 21:36:06 
+P0019 | 103  | azul      | 16          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:36:24 
+P0020 | 100  | verde     | 14          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:36:30 
+P0021 | 105  | azul      | 10          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:36:37 
+P0022 | 104  | verde     | 12          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:36:49 
+P0023 | 100  | azul      | 10          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:37:11 
+P0024 | 103  | azul      | 10          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:37:17 
+P0025 | 102  | azul      | 10          | aprovada  | -                                                                       | C0002        | 30/04/2026 21:37:23 
+P0026 | 102  | azul      | 15          | aprovada  | -                                                                       | C0003        | 30/04/2026 21:37:33 
+P0027 | 106  | branca    | 19          | reprovada | Peso fora do padrão, Cor fora do padrão                                 | -            | 30/04/2026 21:37:55 
+__________________________________________________________________________________________________________________________________________________________________
+
+CAIXAS UTILIZADAS
+----------------------------------------
+Caixas fechadas:
+- Caixa C0001: P0001, P0004, P0005, P0006, P0007, P0008, P0011, P0012, P0013, P0014
+- Caixa C0002: P0015, P0016, P0017, P0019, P0020, P0021, P0022, P0023, P0024, P0025
+
+Caixa atual (em preenchimento) C0003: P0026
+
+________________________________________
